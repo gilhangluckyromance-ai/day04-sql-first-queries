@@ -1,6 +1,6 @@
-date. README.md is the first thing reviewers see on GitHub — make it count. # Day 4 — SQL First Queries
-Author: [LUCKY ROMANCE A. GILHANG]
-Date: [June 16, 2026]
+# Day 4 — SQL First Queries
+Author: LUCKY ROMANCE A. GILHANG
+Date: June 16, 2026
 Course: TESDA Data Analytics Level III
 ## About
 This repository contains my first 20 SQL queries for the TESDA
